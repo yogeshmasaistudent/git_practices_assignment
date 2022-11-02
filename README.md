@@ -1,5 +1,5 @@
 # git_practices_assignment
-# I'm yogesh!  working on skill now 👋
+# I'm yogesh! 👋
 
 
 ## 🛠 Skills
